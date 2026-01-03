@@ -325,6 +325,10 @@ Molecules survive crashes - any agent can continue where another left off.
 | `squash` | Mol/Wisp → Digest | Condense to permanent record |
 | `burn` | Wisp → ∅ | Discard without record |
 
+## Learning Resources
+
+- [Testing Gas Town Agent Orchestration Framework](https://www.youtube.com/watch?v=APojy4uF3Po) (video) by a Senior DevOps Engineer, Jan 2026 - Gas Town does maybe look a bit like Kubernetes, unintentionally.
+
 ---
 
 ## License
