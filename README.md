@@ -2,7 +2,11 @@
 
 Multi-agent orchestrator for Claude Code. Track work with convoys; sling to agents.
 
+![gastown-k8s-infographics](https://github.com/user-attachments/assets/f5522d09-dc8e-49a8-b79e-0e90f4a54707)
+
+
 ## Why Gas Town?
+
 
 | Without | With Gas Town |
 |---------|---------------|
